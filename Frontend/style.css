@@ -1,0 +1,17 @@
+h1{
+    color:rgb(175, 8, 80);
+    background-color: rgb(192, 205, 107);
+    font-style:italic ;
+}
+body{
+    background-image: url("https://codegnan.com/wp-content/uploads/2024/03/IMG_4563-scaled-768x577.jpgw3_.webp");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+    position: relative;
+    bottom: 3px; /* Moves the image up 3 pixels */
+}
+p{
+    text-decoration: underline;
+}
