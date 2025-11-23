@@ -1,0 +1,27 @@
+body{
+    /*background-color: aquamarine;*/
+    background: linear-gradient(to right,red,yellow,green,violet);
+}
+
+.navbar{
+    background-color: azure;
+    top: 0;
+    left: 0;
+    width: 100%;
+    margin-top: 5px;
+    
+
+}
+.sliding{
+    background-color: bisque;
+    display:inline;
+}
+.text{
+    text-align: center;
+    text-shadow: 2px 2px 5px brown;
+}
+
+.btn{
+    background-color: darkgoldenrod;
+    border: 2px solid #000047;
+}
